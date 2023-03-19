@@ -1,5 +1,8 @@
 <resources>
-    <string name="app_name">GIthub User</string>
+    <string name="app_name">Github User</string>
     <string name="iv_user_photo">User Photo</string>
     <string name="et_search_user">Search user</string>
+
+    <string name="tab_1">Followers</string>
+    <string name="tab_2">Following</string>
 </resources>
